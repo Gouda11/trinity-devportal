@@ -33,8 +33,13 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"bcryptjs": "^2.4.3",
+		"colors": "^1.4.0",
+		"jsonwebtoken": "^8.5.1",
 		"mongodb": "^4.10.0",
 		"mongoose": "^6.6.5",
-		"svelte-add": "^2022.8.1-5.2"
+		"slugify": "^1.6.5",
+		"svelte-add": "^2022.8.1-5.2",
+		"validator": "^13.7.0"
 	}
 }

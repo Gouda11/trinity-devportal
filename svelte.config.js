@@ -12,7 +12,11 @@ const config = {
         alias: {
             $db: '../../../../src/models',
         }
-    }
+    },
+    paths: {
+        assets: '',
+        base: '/login'
+    },
 };
 
 export default config;
